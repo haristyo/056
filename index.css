@@ -1,8 +1,7 @@
 .bg-blue{
     background-color: #3182d8;
     color: #fff;
-    padding: 0 10em 0 10;
-    
+    padding: 0 10em 0 10;   
 }
 
 .navbar-nav li{
@@ -65,17 +64,22 @@
 .w-60{
     width: 60%!important;
 }
-body{
-    background-color: pink;
-}
+
 
 #specialcontents{
     top:275vh;
     left:0vw;
-    background-color: lightblue;
 }
+
 .spc1{
     margin-left:10vw;
+}
+.specialtext{
+    font-size: 110px;
+    font-weight: 100;
+    letter-spacing: 0px;
+    left:10vw;
+    
 }
 .specials{
     top: 20vh; 
@@ -83,24 +87,120 @@ body{
     width:75vw;
     
 }
-.specials1{
+#specials1{
     top: 40vh;
     width:45vw;
 }
-.specials2{     
+#specials2{     
     top: 50vh; 
     right:5vw; 
     width:45vw;
-}
-.specialtext{
-    font-size: 110px;
-    font-weight: 100;
-    letter-spacing: 1px;
-    line-height: -30;
-    left:10vw;
-    
 }
 .oswald {
     font-family: 'Oswald';
     font-weight: normal;
   }
+#company{
+    top:400vh;
+    left:0vw;
+    background-color: lightblue;
+}
+.cpy{
+    right: 15vw;
+}
+.companytext{
+    font-size: 110px;
+    font-weight: 100;
+    letter-spacing: 1px;
+    right: 15vw;
+    margin-right: 0px;
+     
+}
+.company{
+    top: 20vh; 
+    left:0vw; 
+    width:80vw;
+    
+}
+#company1{
+    top: 40vh;
+    width:30vw;
+}
+#company2{
+    top: 45vh;
+    width:30vw;
+    left: 34vw;
+}
+#company3{
+    top: 50vh;
+    width:30vw;
+    right: 0vw;
+}
+
+#work{
+    top:500vh;
+    left:0vw;
+}
+
+.wrk1{
+    margin-left:10vw;
+}
+.worktext{
+    font-size: 110px;
+    font-weight: 100;
+    letter-spacing: 0px;
+    left:10vw;
+    
+}
+.work{
+    top: 20vh; 
+    right:0vw; 
+    width:74vw;
+    
+}
+#work1{
+    top: 42vh;
+    width:45vw;
+}
+#work2{     
+    top: 52vh; 
+    right:5vw; 
+    width:45vw;
+}
+#recruit{
+    top:610vh;
+    left:0vw;
+}
+
+.rct1{
+    margin-left:10vw;
+}
+.recruittext{
+    font-size: 110px;
+    font-weight: 100;
+    letter-spacing: 0px;
+    left:10vw;
+    
+}
+.recruit{
+    top: 20vh;
+    
+}
+#footer{
+    top: 683.8vh;
+    width: 100%;
+    background-color: #2065c5;
+  }
+.dashed{
+list-style-type: '- ';
+}
+#tc{
+    width: 45vh;
+    top:50vh;
+    left:20vw;
+}
+#faq{
+    width: 45vh;
+    top:50vh;
+    left:60vw;
+}
